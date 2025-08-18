@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Sample React App",
+  "short_name": "Image Generator",
+  "name": "Image Generator App",
   "icons": [
     {
       "src": "favicon.ico",

@@ -13,10 +13,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "PUBLIC_URL=https://imagenerator.netlify.app react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://imagenerator.netlify.app",
   "eslintConfig": {
     "extends": [
       "react-app",

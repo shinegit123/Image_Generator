@@ -36,7 +36,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
    npm start
    ```
 
-The application will open in your browser at `http://localhost:3000`.
+The application will open in your browser at `http://localhost:3000` for development, or visit the production site at `https://imagenerator.netlify.app`.
 
 ## Available Scripts
 
